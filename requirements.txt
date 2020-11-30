@@ -1,0 +1,10 @@
+Flask
+Flask_Cors
+Flask_APScheduler
+requests
+flask_sqlalchemy
+pymysql
+flask-apidoc
+Flask-HTTPAuth
+flask-redis
+flask-script
